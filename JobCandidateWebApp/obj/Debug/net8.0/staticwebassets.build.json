@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1ul/RFOld0VRxQHZCb+MGGjC/bqlMBn4lSAcvBOk4Hk=",
+  "Source": "JobCandidateWebApp",
+  "BasePath": "_content/JobCandidateWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

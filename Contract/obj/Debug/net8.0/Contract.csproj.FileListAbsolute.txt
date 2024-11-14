@@ -1,0 +1,11 @@
+D:\JobCandidateWebApp\Contract\bin\Debug\net8.0\Contract.deps.json
+D:\JobCandidateWebApp\Contract\bin\Debug\net8.0\Contract.dll
+D:\JobCandidateWebApp\Contract\bin\Debug\net8.0\Contract.pdb
+D:\JobCandidateWebApp\Contract\obj\Debug\net8.0\Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\JobCandidateWebApp\Contract\obj\Debug\net8.0\Contract.AssemblyInfoInputs.cache
+D:\JobCandidateWebApp\Contract\obj\Debug\net8.0\Contract.AssemblyInfo.cs
+D:\JobCandidateWebApp\Contract\obj\Debug\net8.0\Contract.csproj.CoreCompileInputs.cache
+D:\JobCandidateWebApp\Contract\obj\Debug\net8.0\Contract.dll
+D:\JobCandidateWebApp\Contract\obj\Debug\net8.0\refint\Contract.dll
+D:\JobCandidateWebApp\Contract\obj\Debug\net8.0\Contract.pdb
+D:\JobCandidateWebApp\Contract\obj\Debug\net8.0\ref\Contract.dll

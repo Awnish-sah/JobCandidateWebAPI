@@ -1,0 +1,8 @@
+{
+  "Contract, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\JobCandidateWebApp\\Contract",
+  "Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\JobCandidateWebApp\\Domain",
+  "Repo.Abstraction, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\JobCandidateWebApp\\Repo.Abstraction",
+  "Repository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\JobCandidateWebApp\\Repository",
+  "Service.Abstraction, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\JobCandidateWebApp\\Service.Abstraction",
+  "Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\JobCandidateWebApp\\Service"
+}

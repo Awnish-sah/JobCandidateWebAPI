@@ -1,0 +1,17 @@
+D:\JobCandidateWebApp\Repo.Abstraction\bin\Debug\net8.0\Repo.Abstraction.deps.json
+D:\JobCandidateWebApp\Repo.Abstraction\bin\Debug\net8.0\Repo.Abstraction.dll
+D:\JobCandidateWebApp\Repo.Abstraction\bin\Debug\net8.0\Repo.Abstraction.pdb
+D:\JobCandidateWebApp\Repo.Abstraction\bin\Debug\net8.0\Contract.dll
+D:\JobCandidateWebApp\Repo.Abstraction\bin\Debug\net8.0\Domain.dll
+D:\JobCandidateWebApp\Repo.Abstraction\bin\Debug\net8.0\Contract.pdb
+D:\JobCandidateWebApp\Repo.Abstraction\bin\Debug\net8.0\Domain.pdb
+D:\JobCandidateWebApp\Repo.Abstraction\obj\Debug\net8.0\Repo.Abstraction.csproj.AssemblyReference.cache
+D:\JobCandidateWebApp\Repo.Abstraction\obj\Debug\net8.0\Repo.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\JobCandidateWebApp\Repo.Abstraction\obj\Debug\net8.0\Repo.Abstraction.AssemblyInfoInputs.cache
+D:\JobCandidateWebApp\Repo.Abstraction\obj\Debug\net8.0\Repo.Abstraction.AssemblyInfo.cs
+D:\JobCandidateWebApp\Repo.Abstraction\obj\Debug\net8.0\Repo.Abstraction.csproj.CoreCompileInputs.cache
+D:\JobCandidateWebApp\Repo.Abstraction\obj\Debug\net8.0\Repo.Abs.9FF2D325.Up2Date
+D:\JobCandidateWebApp\Repo.Abstraction\obj\Debug\net8.0\Repo.Abstraction.dll
+D:\JobCandidateWebApp\Repo.Abstraction\obj\Debug\net8.0\refint\Repo.Abstraction.dll
+D:\JobCandidateWebApp\Repo.Abstraction\obj\Debug\net8.0\Repo.Abstraction.pdb
+D:\JobCandidateWebApp\Repo.Abstraction\obj\Debug\net8.0\ref\Repo.Abstraction.dll

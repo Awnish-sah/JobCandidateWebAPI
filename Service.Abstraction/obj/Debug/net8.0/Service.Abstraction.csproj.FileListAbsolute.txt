@@ -1,0 +1,15 @@
+D:\JobCandidateWebApp\Service.Abstraction\bin\Debug\net8.0\Service.Abstraction.deps.json
+D:\JobCandidateWebApp\Service.Abstraction\bin\Debug\net8.0\Service.Abstraction.dll
+D:\JobCandidateWebApp\Service.Abstraction\bin\Debug\net8.0\Service.Abstraction.pdb
+D:\JobCandidateWebApp\Service.Abstraction\bin\Debug\net8.0\Contract.dll
+D:\JobCandidateWebApp\Service.Abstraction\bin\Debug\net8.0\Contract.pdb
+D:\JobCandidateWebApp\Service.Abstraction\obj\Debug\net8.0\Service.Abstraction.csproj.AssemblyReference.cache
+D:\JobCandidateWebApp\Service.Abstraction\obj\Debug\net8.0\Service.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\JobCandidateWebApp\Service.Abstraction\obj\Debug\net8.0\Service.Abstraction.AssemblyInfoInputs.cache
+D:\JobCandidateWebApp\Service.Abstraction\obj\Debug\net8.0\Service.Abstraction.AssemblyInfo.cs
+D:\JobCandidateWebApp\Service.Abstraction\obj\Debug\net8.0\Service.Abstraction.csproj.CoreCompileInputs.cache
+D:\JobCandidateWebApp\Service.Abstraction\obj\Debug\net8.0\Service..33BE1179.Up2Date
+D:\JobCandidateWebApp\Service.Abstraction\obj\Debug\net8.0\Service.Abstraction.dll
+D:\JobCandidateWebApp\Service.Abstraction\obj\Debug\net8.0\refint\Service.Abstraction.dll
+D:\JobCandidateWebApp\Service.Abstraction\obj\Debug\net8.0\Service.Abstraction.pdb
+D:\JobCandidateWebApp\Service.Abstraction\obj\Debug\net8.0\ref\Service.Abstraction.dll

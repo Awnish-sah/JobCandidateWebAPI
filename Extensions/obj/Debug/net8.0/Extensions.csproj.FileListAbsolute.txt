@@ -1,0 +1,15 @@
+D:\JobCandidateWebApp\Extensions\bin\Debug\net8.0\Extensions.deps.json
+D:\JobCandidateWebApp\Extensions\bin\Debug\net8.0\Extensions.dll
+D:\JobCandidateWebApp\Extensions\bin\Debug\net8.0\Extensions.pdb
+D:\JobCandidateWebApp\Extensions\bin\Debug\net8.0\Contract.dll
+D:\JobCandidateWebApp\Extensions\bin\Debug\net8.0\Contract.pdb
+D:\JobCandidateWebApp\Extensions\obj\Debug\net8.0\Extensions.csproj.AssemblyReference.cache
+D:\JobCandidateWebApp\Extensions\obj\Debug\net8.0\Extensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\JobCandidateWebApp\Extensions\obj\Debug\net8.0\Extensions.AssemblyInfoInputs.cache
+D:\JobCandidateWebApp\Extensions\obj\Debug\net8.0\Extensions.AssemblyInfo.cs
+D:\JobCandidateWebApp\Extensions\obj\Debug\net8.0\Extensions.csproj.CoreCompileInputs.cache
+D:\JobCandidateWebApp\Extensions\obj\Debug\net8.0\Extensions.csproj.Up2Date
+D:\JobCandidateWebApp\Extensions\obj\Debug\net8.0\Extensions.dll
+D:\JobCandidateWebApp\Extensions\obj\Debug\net8.0\refint\Extensions.dll
+D:\JobCandidateWebApp\Extensions\obj\Debug\net8.0\Extensions.pdb
+D:\JobCandidateWebApp\Extensions\obj\Debug\net8.0\ref\Extensions.dll
